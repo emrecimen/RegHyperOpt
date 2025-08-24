@@ -4,7 +4,7 @@
 from keras.datasets import mnist
 from keras.utils import np_utils
 from sklearn.model_selection import train_test_split
-from ml_optimizer import ml_optimizer, create_model
+from regHyperOpt import ml_optimizer, create_model
 
 # Load MNIST
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
