@@ -3,7 +3,7 @@
 ## 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/regHyperOpt-demo.git
-cd regHyperOpt-demo
+cd regHyperOpt
 ```
 
 ## 2. (Optional) Create a Virtual Environment
